@@ -88,7 +88,7 @@ export default function Header({ siteTitle }: any) {
 	const classes: Record<string, string> = useStyles()
 	// when this function is called, it will promote the title to have a rainbow pulse effect
 	useEffect(() => {
-		// makeRainbow(); // Make the header title have the rainbow animation
+		makeRainbow(); // Make the header title have the rainbow animation
 	})
 		
 	return (
