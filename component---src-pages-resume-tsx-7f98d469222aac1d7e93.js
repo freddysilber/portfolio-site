@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{UTyF:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return o}));var c=t("q1tI"),u=t.n(c),a=t("Nhdc");t("ZoyV");function o(){return u.a.createElement(a.c,null,u.a.createElement(a.f,{title:"Resume"}),u.a.createElement(a.e,null))}},ZoyV:function(e,n,t){}}]);
+//# sourceMappingURL=component---src-pages-resume-tsx-7f98d469222aac1d7e93.js.map
