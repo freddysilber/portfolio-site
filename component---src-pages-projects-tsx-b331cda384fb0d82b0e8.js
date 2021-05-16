@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{gZkK:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return o}));var c=t("q1tI"),a=t.n(c),l=t("Nhdc");function o(){return a.a.createElement(l.d,null,a.a.createElement(l.f,{title:"Projects"}),a.a.createElement("section",null,a.a.createElement("h1",null,"Coming Soon...")))}}}]);
+//# sourceMappingURL=component---src-pages-projects-tsx-b331cda384fb0d82b0e8.js.map

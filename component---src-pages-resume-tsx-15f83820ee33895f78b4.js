@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{UTyF:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return r}));var c=t("q1tI"),u=t.n(c),a=t("Nhdc");function r(){return u.a.createElement(a.c,null,u.a.createElement(a.f,{title:"Resume"}),u.a.createElement(a.e,null))}}}]);
-//# sourceMappingURL=component---src-pages-resume-tsx-15f83820ee33895f78b4.js.map
